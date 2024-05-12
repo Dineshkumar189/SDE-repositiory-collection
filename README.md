@@ -1,14 +1,7 @@
-flowchart TD
-    A[Start] --> B[Introduction]
-    B --> C[Programming Languages]
-    C --> D[Data Structures]
-    D --> E[Algorithms]
-    E --> F[Problem Solving Techniques]
-    F --> G[Common Interview Questions]
-    G --> H[System Design]
-    H --> I[Coding Practices]
-    I --> J[Online Platforms and Resources]
-    J --> K[Mock Interviews]
-    K --> L[Additional Resources]
-    L --> M[Contributing]
-    M --> N[End]
+    ```mermaid
+        graph TD;
+            A-->B;
+            B-->C;
+            C-->D;
+            D-->E;
+    ```
