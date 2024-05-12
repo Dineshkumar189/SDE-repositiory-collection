@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Tech Interview Preparation Repository</h1>
+<h1 align="center" >Tech Interview Preparation Repository</h1>
 
 ## Introduction
 - Brief overview of the repository's purpose
