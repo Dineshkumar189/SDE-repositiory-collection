@@ -1,7 +1,8 @@
 <h1 align="center" >Tech Interview Preparation Repository</h1>
 
-<img align="center" src="https://github.com/Dineshkumar189/SDE-repositiory-collection/blob/main/media/Designer.jpeg" alt="Tech Interview Preparation Repository" width="500" height="400">
-
+<p align="center">
+  <img src="https://github.com/Dineshkumar189/SDE-repositiory-collection/blob/main/media/Designer.jpeg" alt="Tech Interview Preparation Repository" width="500" height="400">
+</p>
 
 ## Introduction
 - Brief overview of the repository's purpose
