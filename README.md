@@ -1,48 +1,14 @@
-graph TD;
-    A[Interview Preparation] --> B[Programming Languages];
-    A --> C[Data Structures & Algorithms];
-    A --> D[Problem Solving Techniques];
-    A --> E[System Design];
-    A --> F[Coding Practices];
-    A --> G[Online Platforms & Resources];
-    A --> H[Mock Interviews];
-    A --> I[Additional Resources];
-    A --> J[Contributing];
-    B --> B1[Python];
-    B --> B2[Java];
-    B --> B3[C++];
-    C --> C1[Arrays];
-    C --> C2[Linked Lists];
-    C --> C3[Stacks & Queues];
-    C --> C4[Trees & Graphs];
-    C --> C5[Hash Tables];
-    C --> C6[Heaps];
-    C --> C7[Trie];
-    C --> C8[Sorting Algorithms];
-    C --> C9[Searching Algorithms];
-    C --> C10[Dynamic Programming];
-    C --> C11[Greedy Algorithms];
-    C --> C12[Backtracking];
-    C --> C13[Divide and Conquer];
-    D --> D1[Understanding Problem Statement];
-    D --> D2[Problem Solving Strategies];
-    D --> D3[Breaking Down Problems];
-    E --> E1[Basics of System Design];
-    E --> E2[Scalability];
-    E --> E3[Designing Web Services];
-    E --> E4[Database Design];
-    F --> F1[Clean Code Principles];
-    F --> F2[Modular & Reusable Code];
-    F --> F3[Code Optimization Techniques];
-    G --> G1[LeetCode];
-    G --> G2[HackerRank];
-    G --> G3[CodeSignal];
-    G --> G4[Books & Courses];
-    G --> G5[YouTube Channels & Tutorials];
-    H --> H1[Conducting Mock Interviews];
-    H --> H2[Finding Mock Interview Partners];
-    H --> H3[Tips for Mock Interviews];
-    I --> I1[Articles & Blogs];
-    I --> I2[GitHub Repositories];
-    J --> J1[Instructions for Contribution];
-    J --> J2[Guidelines for Contribution];
+flowchart TD
+    A[Start] --> B[Introduction]
+    B --> C[Programming Languages]
+    C --> D[Data Structures]
+    D --> E[Algorithms]
+    E --> F[Problem Solving Techniques]
+    F --> G[Common Interview Questions]
+    G --> H[System Design]
+    H --> I[Coding Practices]
+    I --> J[Online Platforms and Resources]
+    J --> K[Mock Interviews]
+    K --> L[Additional Resources]
+    L --> M[Contributing]
+    M --> N[End]
