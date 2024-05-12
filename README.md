@@ -5,8 +5,19 @@
 </p>
 
 ## Introduction
-- Brief overview of the repository's purpose
-- How to use the repository effectively
+
+**Brief overview of the repository's purpose:**
+
+This repository is dedicated to aiding beginners in their preparation for technical interviews. It's designed to provide comprehensive resources and guidance to help you build confidence and excel in your interviews.
+
+**How to use the repository effectively:**
+
+1. **Navigation**: Use the flowchart provided at the beginning to navigate through different topics efficiently.
+2. **Study Plan**: Start with the "Introduction" section to understand the repository's purpose, then proceed systematically through each topic.
+3. **Practice**: Utilize the provided resources, including coding challenges and mock interviews, to reinforce your learning and problem-solving skills.
+4. **Engagement**: Actively engage with the community by contributing your own solutions, asking questions, and participating in mock interviews.
+5. **Feedback**: Don't hesitate to provide feedback on the content or suggest improvements to make this repository even more beneficial for future users.
+
 
 ## Programming Languages
 - Basics of popular programming languages (like Python, Java, C++)
