@@ -1,5 +1,7 @@
 <h1 align="center" >Tech Interview Preparation Repository</h1>
 
+[![SDE-repositiory-collection](image)](https://github.com/Dineshkumar189/SDE-repositiory-collection/blob/main/media/Designer.jpeg)
+
 ## Introduction
 - Brief overview of the repository's purpose
 - How to use the repository effectively
