@@ -1,8 +1,6 @@
 <h1 align="center" >Tech Interview Preparation Repository</h1>
 
-<a href="https://github.com/Dineshkumar189/SDE-repositiory-collection/blob/main/media/Designer.jpeg">
-  <img src="image" alt="SDE-repositiory-collection" width="400" height="300">
-</a>
+![Tech Interview Preparation Repository](https://github.com/Dineshkumar189/SDE-repositiory-collection/blob/main/media/Designer.jpeg)
 
 
 ## Introduction
