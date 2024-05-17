@@ -4,6 +4,28 @@
   <img src="https://github.com/Dineshkumar189/SDE-repositiory-collection/blob/main/media/Designer.jpeg" alt="Tech Interview Preparation Repository" width="500" height="400">
 </p>
 
+
+- Arrays & Hashing
+  - Two Pointers
+    - Binary Search
+    - Sliding Window
+  - Stack
+    - Linked List
+    - Tries
+      - Tries
+        - Heap / Priority Queue
+          - Intervals
+          - Greedy
+      - Backtracking
+        - Graphs
+          - Advanced Graph
+          - 1-D DP
+          - 2-D DP
+            - Math & Geometry
+          - Bit Manipulation
+
+
+
 ## Introduction
 
 **Brief overview of the repository's purpose:**
