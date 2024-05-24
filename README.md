@@ -1,3 +1,12 @@
+<h1 align="center">
+  <div style="display: inline-block; vertical-align: middle;">
+    <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="SDE-repositiory-collection" width="150" height="100" style="vertical-align: middle;">
+  </div>
+  <div style="display: inline-block; vertical-align: middle;">
+    SDE-repositiory-collection
+  </div>
+</h1>
+
 <h1 align="center" >Tech Interview Preparation Repository</h1>
 
 <p align="center">
