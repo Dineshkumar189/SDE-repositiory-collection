@@ -1,7 +1,8 @@
-<h1 align="center" style="display: inline-block;">
-  <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="SDE-repositiory-collection" width="150" height="100" style="float: left; margin-right: 10px;">
-  <span style="display: inline-block; line-height: 100px;">SDE-repositiory-collection</span>
+<h1 align="center">
+  <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="SDE-repositiory-collection" width="50" height="50">
+  SDE-repositiory-collection
 </h1>
+
 
 
 
