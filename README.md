@@ -1,7 +1,8 @@
-<h1 align="center">
-  <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="SDE-repositiory-collection" width="150" height="100" style="vertical-align: middle; margin-right: 10px;">
-  <span style="vertical-align: middle;">SDE-repositiory-collection</span>
+<h1 align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="SDE-repositiory-collection" width="150" height="100" style="margin-right: 10px;">
+  <span>SDE-repositiory-collection</span>
 </h1>
+
 
 
 <h1 align="center" >Tech Interview Preparation Repository</h1>
