@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="SDE-repositiory-collection" width="300" height="100">
+  <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="SDE-repositiory-collection" width="200" height="100">
   SDE-repositiory-collection
 </h1>
 
