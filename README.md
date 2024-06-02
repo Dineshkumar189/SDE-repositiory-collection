@@ -1,3 +1,56 @@
+
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="#-companies">#</a></td>
+<td align="center"><a href="#a-companies">A</a></td>
+<td align="center"><a href="#b-companies">B</a></td>
+<td align="center"><a href="#c-companies">C</a></td>
+<td align="center"><a href="#d-companies">D</a></td>
+<td align="center"><a href="#e-companies">E</a></td>
+<td align="center"><a href="#f-companies">F</a></td>
+<td align="center"><a href="#g-companies">G</a></td>
+<td align="center"><a href="#h-companies">H</a></td>
+</tr>
+<tr>
+<td align="center"><a href="#i-companies">I</a></td>
+<td align="center"><a href="#j-companies">J</a></td>
+<td align="center"><a href="#k-companies">K</a></td>
+<td align="center"><a href="#l-companies">L</a></td>
+<td align="center"><a href="#m-companies">M</a></td>
+<td align="center"><a href="#n-companies">N</a></td>
+<td align="center"><a href="#o-companies">O</a></td>
+<td align="center"><a href="#p-companies">P</a></td>
+<td align="center"><a href="#q-companies">Q</a></td>
+</tr>
+<tr>
+<td align="center"><a href="#r-companies">R</a></td>
+<td align="center"><a href="#s-companies">S</a></td>
+<td align="center"><a href="#t-companies">T</a></td>
+<td align="center"><a href="#u-companies">U</a></td>
+<td align="center"><a href="#v-companies">V</a></td>
+<td align="center"><a href="#w-companies">W</a></td>
+<td align="center"><a href="#x-companies">X</a></td>
+<td align="center"><a href="#y-companies">Y</a></td>
+<td align="center"><a href="#z-companies">Z</a></td>
+</tr>
+</tbody>
+</table>
+
+
 <h1 align="center" >Tech Interview Preparation Repository</h1>
 
 <p align="center">
