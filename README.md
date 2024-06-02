@@ -1,7 +1,7 @@
 [![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-blue)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory)
 [![Share on Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20LinkedIn%20Job%20Directory%20repository!%20&url=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory)
 [![Share on Facebook](https://img.shields.io/badge/Share-Facebook-blue)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory)
-[![Share on Reddit](https://img.shields.io/reddit/submit?url=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory&title=Check%20out%20this%20awesome%20LinkedIn%20Job%20Directory%20repository!)](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory&title=Check%20out%20this%20awesome%20LinkedIn%20Job%20Directory%20repository!)
+[![Share on Reddit](https://img.shields.io/badge/Share-Reddit-orange)](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory&title=Check%20out%20this%20awesome%20LinkedIn%20Job%20Directory%20repository!)
 [![Share on Hacker News](https://img.shields.io/badge/Share-Hacker%20News-orange)](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory&t=Check%20out%20this%20awesome%20LinkedIn%20Job%20Directory%20repository!)
 [![Share on Discord](https://img.shields.io/badge/Share-Discord-blueviolet)](https://discord.com/)
 
