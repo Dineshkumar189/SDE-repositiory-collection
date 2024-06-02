@@ -1,4 +1,4 @@
-
+<h3 tabindex="-1" class="heading-element" dir="auto"><a href="#companies-1">Companies</a></h3>
 <table>
 <thead>
 <tr>
