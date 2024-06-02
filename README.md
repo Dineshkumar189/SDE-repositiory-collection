@@ -1,3 +1,8 @@
+[![Share on Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20LinkedIn%20Job%20Directory%20repository!%20&url=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory)
+[![Share on Facebook](https://img.shields.io/badge/Share-Facebook-blue)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory)
+[![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-blue)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory)
+
+
 <h1 align="center" >Tech Interview Preparation Repository</h1>
 
 <p align="center">
